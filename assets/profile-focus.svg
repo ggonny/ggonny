@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" role="img" aria-labelledby="title desc">
+  <title id="title">Publishing focus</title>
+  <desc id="desc">Accessibility, responsive interfaces, and maintainable component systems</desc>
+  <style>
+    .primary{fill:#172033}
+    .secondary{fill:#667085}
+    .line{stroke:#D7DEE8}
+    .accent{fill:#16A6A1}
+    @media (prefers-color-scheme:dark){
+      .primary{fill:#F4F7FB}
+      .secondary{fill:#AEB8C7}
+      .line{stroke:#3B4658}
+    }
+  </style>
+  <line class="line" x1="30" y1="18" x2="1170" y2="18" stroke-width="1"/>
+  <line class="line" x1="30" y1="222" x2="1170" y2="222" stroke-width="1"/>
+  <line class="line" x1="400" y1="48" x2="400" y2="192" stroke-width="1"/>
+  <line class="line" x1="800" y1="48" x2="800" y2="192" stroke-width="1"/>
+  <g font-family="Inter, Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+    <text class="accent" x="62" y="76" font-size="14" font-weight="700" letter-spacing="3">01</text>
+    <text class="primary" x="62" y="116" font-size="23" font-weight="700" letter-spacing="1">ACCESSIBLE</text>
+    <text class="secondary" x="62" y="154" font-size="16">Keyboard · Focus · Screen reader</text>
+    <text class="secondary" x="62" y="181" font-size="16">Semantic markup · Contrast</text>
+    <text class="accent" x="452" y="76" font-size="14" font-weight="700" letter-spacing="3">02</text>
+    <text class="primary" x="452" y="116" font-size="23" font-weight="700" letter-spacing="1">RESPONSIVE</text>
+    <text class="secondary" x="452" y="154" font-size="16">Flexible layouts · Cross-browser</text>
+    <text class="secondary" x="452" y="181" font-size="16">Desktop · Tablet · Mobile</text>
+    <text class="accent" x="852" y="76" font-size="14" font-weight="700" letter-spacing="3">03</text>
+    <text class="primary" x="852" y="116" font-size="23" font-weight="700" letter-spacing="1">MAINTAINABLE</text>
+    <text class="secondary" x="852" y="154" font-size="16">Reusable components · Clear rules</text>
+    <text class="secondary" x="852" y="181" font-size="16">Design systems · Collaboration</text>
+  </g>
+</svg>
