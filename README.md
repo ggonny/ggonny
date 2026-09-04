@@ -37,6 +37,6 @@
 <br />
 
 <p align="center">
-  <strong>CURRENT FOCUS</strong><br /><br />
-  <sub>Vanilla JavaScript&nbsp;&nbsp;·&nbsp;&nbsp;React&nbsp;&nbsp;·&nbsp;&nbsp;KRDS-based UI systems</sub>
+  <strong>NEXT STEP</strong><br /><br />
+  <sub>JavaScript 역량 강화&nbsp;&nbsp;·&nbsp;&nbsp;React 학습&nbsp;&nbsp;·&nbsp;&nbsp;KRDS 기반 공통 UI 체계화</sub>
 </p>
