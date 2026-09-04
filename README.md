@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" alt="ggonny, public-sector web publisher" width="100%" />
+  <img src="./assets/profile-header.svg" alt="ggonny, 공공기관 웹사이트를 만드는 웹 퍼블리셔" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/profile-focus.svg" alt="Accessible, responsive and maintainable publishing" width="100%" />
+  <img src="./assets/profile-focus.svg" alt="웹접근성, 반응형 웹, 유지보수성을 중심으로 한 퍼블리싱" width="100%" />
 </p>
 
 <br />
