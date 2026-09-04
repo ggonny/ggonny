@@ -1,41 +1,42 @@
-<h1 align="center">Hi, I'm ggonny 👋</h1>
-
 <p align="center">
-  Web Publisher specializing in public-sector websites
+  <img src="./assets/profile-header.svg" alt="ggonny, public-sector web publisher" width="100%" />
 </p>
 
-## About Me
+<p align="center">
+  <img src="./assets/profile-focus.svg" alt="Accessible, responsive and maintainable publishing" width="100%" />
+</p>
 
-- 공기업·공공기관 웹사이트 퍼블리싱
-- 웹접근성과 웹표준을 고려한 마크업
-- 반응형 웹 및 크로스 브라우징 대응
-- 공통 UI 컴포넌트와 디자인 시스템 구축
-- 개발자 협업을 고려한 유지보수 가능한 코드 작성
+<br />
 
-## Tech Stack
+<p align="center"><strong>TOOLKIT</strong></p>
 
-### Markup & Style
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="42" height="42" alt="SCSS" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="42" height="42" alt="jQuery" />
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+<p align="center">
+  <sub>HTML5&nbsp;&nbsp;·&nbsp;&nbsp;CSS3&nbsp;&nbsp;·&nbsp;&nbsp;SCSS&nbsp;&nbsp;·&nbsp;&nbsp;JavaScript&nbsp;&nbsp;·&nbsp;&nbsp;jQuery</sub>
+</p>
 
-### Script & Library
+<br />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=222)
+<p align="center"><strong>LIBRARIES</strong></p>
 
-### Tools
+<p align="center">
+  <sub>Swiper&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;slick.js&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;GSAP&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;AOS</sub>
+</p>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<br />
 
-## Interested In
-
-- Web Accessibility
-- Responsive Web
-- Design Systems
-- Semantic Markup
-- JavaScript & React
+<p align="center">
+  <strong>CURRENT FOCUS</strong><br /><br />
+  <sub>Vanilla JavaScript&nbsp;&nbsp;·&nbsp;&nbsp;React&nbsp;&nbsp;·&nbsp;&nbsp;KRDS-based UI systems</sub>
+</p>
